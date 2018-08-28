@@ -18,7 +18,7 @@ This is my favorite code that I have written when I was doing this assignment fr
 
 It is my first time to creating shapes in java which makes me so excited at that time. In this code, I draw a house and had cloud on top of the house but the cloud can be move by zoom in or out.
 
-
+From this assignment, I learned how to design Applet in java. I also want to learn how to make moving image in Applet in java. I fell there will be a lot of fun to draw different shapes and learned deeper knowlege for dessign Applet. 
 
 
 Here is the code that I wrote: 
