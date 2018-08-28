@@ -14,11 +14,11 @@ summary: I learn how to creating shapes in java in KCC.
   <img class="ui image" src="../images//houseShape.jpg">
 </div>
 
-This is my favorite code that I have written when I was doing this assignment from ICS 111 in KCC. In this assignment, my professor wants students creating shapes in java that can be any kind of shapes and colors. It is helping students to familiar with creating shapes in java.
+This is my favorite code that I have written when I was doing this assignment from ICS 111 at KCC. In this assignment, my professor wanted students to create shapes in java so that there can be any kind of shapes and colors. It was meant to help students become familiarized with creating shapes in java.
 
-It is my first time to creating shapes in java which makes me so excited at that time. In this code, I draw a house and had cloud on top of the house but the cloud can be move by zoom in or out.
+It was my first time creating shapes in java which made me really excited at that time. In this code, I drew a house and had clouds on top of the house, but the clouds could move by zooming in or zooming out.
 
-From this assignment, I learned how to design Applet in java. I also want to learn how to make moving image in Applet in java. I fell there will be a lot of fun to draw different shapes and learned deeper knowlege for dessign Applet. 
+From this assignment, I learned how to design Applet in java. I also learned how to make a moving image in Applet in java. I felt that there are still a lot of fun things that can be created from drawing different shapes and there is still so much knowlege left to learn for designing Applet. 
 
 
 Here is the code that I wrote: 
