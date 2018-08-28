@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: image/houseShape.jpg
+image: images/houseShape.jpg
 title: art
 permalink: projects/art
 date: 2017-04-24
