@@ -10,8 +10,12 @@ labels:
   - assignment
 summary: I learn how to creating shapes in java in KCC.
 ---
-<div>
-<img class="https://github.com/yuting7/yuting7.github.io/blob/master/images/houseShape.jpg">
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/micromouse-robot.png">
+  <img class="ui image" src="../images/micromouse-robot-2.jpg">
+  <img class="ui image" src="../images/micromouse.jpg">
+  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images//houseShape.jpg">
 <div>
 
 This is my favorite code that I have written when I was doing this assignment from ICS 111 in KCC. In this assignment, my professor wants students creating shapes in java that can be any kind of shapes and colors. It is helping students to familiar with creating shapes in java.
