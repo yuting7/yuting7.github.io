@@ -10,13 +10,14 @@ labels:
   - assignment
 summary: I learn how to creating shapes in java in KCC.
 ---
-<div class="ui small rounded images">
+<div class="ui medium right floated rounded images">
   <img class="ui image" src="../images//houseShape.jpg">
 </div>
 
 This is my favorite code that I have written when I was doing this assignment from ICS 111 in KCC. In this assignment, my professor wants students creating shapes in java that can be any kind of shapes and colors. It is helping students to familiar with creating shapes in java.
 
 It is my first time to creating shapes in java which makes me so excited at that time. In this code, I draw a house and had cloud on top of the house but the cloud can be move by zoom in or out.
+
 
 
 
