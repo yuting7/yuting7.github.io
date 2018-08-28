@@ -20,6 +20,7 @@ It is my first time to creating shapes in java which makes me so excited at that
 
 
 Here is the code that I wrote: 
+```js
 import java.applet.*;
 import java.awt.*;
 import java.util.*;
@@ -73,3 +74,4 @@ public class Art extends Applet{
       }
    }
 }
+```
