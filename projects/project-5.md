@@ -10,7 +10,11 @@ labels:
   - game
 summary: This is a recent mobile game and it has become very popular.
 ---
-<img class="ui medium right floated rounded image" src="../images/id5.png">
+<div class="ui medium right floated rounded images">
+  <img class="ui image" src="../images/doctor.png">
+  <img class="ui image" src="../images/gardener.jpg">
+  <img class="ui image" src="../images/lawer.jpg">
+</div>
 
 Identity V is my favorite game that I ever played. In this game, there are many characters, but we can divide it into two parts. The first part is called regulators and the second part is called survivors. The regulator's job is to catch survivors while survivors must breakout of five puzzles in order to survive the game.
 
