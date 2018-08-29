@@ -11,7 +11,7 @@ labels:
 summary: This is a recent mobile game and it has become very popular.
 ---
 
-Identity V is my favorite game that I ever played. In this game, there are many characters, but we can divide it into two parts. The first part is called regulators and the second part is called survivors. The regulator's job is to catch survivors while survivors must breakout of five puzzles in order to survive the game.
+Identity V is my favorite game that I ever played. In this game, there are many characters, but we can divide it into two parts. The first part is called regulators and the second part is called survivors. The regulator's job is to catch survivors while survivors must breakout of five puzzles in order to survive the game. There are top three character that I offten used.
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/doctor.jpg">
@@ -21,7 +21,12 @@ My favorite character in this game is Emily; she is a doctor and has a treatment
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/gardener.jpg">
-  <img class="ui image" src="../images/lawer.jpg">
 </div>  
 
 The second character that I played most is Emma Woods; she is a gardener and has toolboc that can destroy the execution frame in the scene. The tips to play this character is only removing the entire chairs in the shortest possible time.
+
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/lawer.jpg">
+</div>  
+
+The last character that I played most is Freddy Riley; he is a lawer and has a map that can help him to find where are the puzzles. The tips to play this character is find a partner and breakout of all puzzles.
