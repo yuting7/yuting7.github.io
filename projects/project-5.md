@@ -10,7 +10,7 @@ labels:
   - game
 summary: This is a recent mobile game and it has become very popular.
 ---
-<div class="ui medium right floated rounded images">
+<div class="ui small rounded images">
   <img class="ui image" src="../images/doctor.jpg">
   <img class="ui image" src="../images/gardener.jpg">
   <img class="ui image" src="../images/lawer.jpg">
