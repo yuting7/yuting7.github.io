@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/id5.png
+image: images/id5.jpg
 title: Identity V
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
@@ -11,7 +11,7 @@ labels:
 summary: This is a recent mobile game and it has become very popular.
 ---
 <div class="ui medium right floated rounded images">
-  <img class="ui image" src="../images/doctor.png">
+  <img class="ui image" src="../images/doctor.jpg">
   <img class="ui image" src="../images/gardener.jpg">
   <img class="ui image" src="../images/lawer.jpg">
 </div>
