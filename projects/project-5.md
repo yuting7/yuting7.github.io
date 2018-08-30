@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/id5.jpg
 title: Identity V
-permalink: projects/vacay
+permalink: projects/Identity V
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-28
 labels:
