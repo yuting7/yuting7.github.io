@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: What is life
+title: Is it difficult to learn computer language?
 date: 2018-08-31
 labels:
   - JavaScript
