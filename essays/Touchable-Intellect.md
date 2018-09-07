@@ -1,7 +1,6 @@
 ---
 layout: essay
 type: essay
-publish: false
 title: Touchable Intellect
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-06
