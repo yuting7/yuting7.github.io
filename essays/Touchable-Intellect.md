@@ -10,3 +10,4 @@ labels:
   - StackOverflow
 ---
 
+Life is made up of many choices and problems. However, communication between people becomes very important at this time, because it helps people understand the problem and solve the problem. 
