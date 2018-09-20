@@ -13,7 +13,7 @@ When we are still an “egg”, we begin to have the ability to learn a language
 
 People learn language so that we can communicate with other people. For example, my native language is Chinese, but after learning English, I can communicate with other people who speak Chinese or English. However, these have a standard which helps us clearly understand what other people wants to express. When I study English, I found that there are many rules in English such as present simple tense, present continuous tense, present perfect tense, and present perfect continuous tense…etc. If you use the wrong grammar tense, it may cause others to misunderstand you. This is especially true for those who write computer programming languages, when there is a very tiny difference, it might lead to very huge different results. Now, we know how importance of language standard is. 
 
-<img class="ui tiny left circular floated image" src="../images/turning-point.jpg">
+
 
 <img class="ui medium left floated image" src="../images/turning-point.jpg">
 
