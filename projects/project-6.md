@@ -5,7 +5,7 @@ image: images/food.jpg
 title: Sugar coated haws on a stick
 permalink: projects/Sugar_coated_haws_on_a_stick
 # All dates must be YYYY-MM-DD format!
-date: 2018-08-28
+date: 2018-08-29
 labels:
   - Taiwanese food
   - Night Market
