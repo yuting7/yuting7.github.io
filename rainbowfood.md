@@ -3,7 +3,7 @@ layout: project
 type: project
 image: 
 title: Rainbow Food
-permalink: projects/rainbow-food
+permalink: projects/rainbowfood
 # All dates must be YYYY-MM-DD format!
 date: 2018-11-09 - 2018-12-06
 labels:
