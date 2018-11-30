@@ -5,7 +5,7 @@ image: images/rainbows.jpg
 title: Rainbow Food
 permalink: projects/rainbowfood
 # All dates must be YYYY-MM-DD format!
-date: 2018-11-09 - 2018-12-06
+date: 2018-11-30
 labels:
   - React
   - Meteor App
