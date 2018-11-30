@@ -19,7 +19,7 @@ summary: Rainbow Food is a web application that allow UH Manoa students to seek 
 
 [Rainbow Food](http://rainbowfood.meteorapp.com/#/) App.
 
-As human beings, we all have a foraging skill. But we want to find our next meal easier and faster way in this era of high technology. However, we need an app to help us to do it which that will be Rainbow Food.
+As human beings, we all have a foraging skill. But we want to find our next meal easier and faster way in this era of high technology. However, we need an app to help us to do it and that will be Rainbow Food.
 
 Rainbow Food is an application that allow UH Manoa students to know what the delicious meals are available across on campus. The application also includes students to view the most popular meals of the day by sorting the rate of likes. Rainbow Food also provides vendors to update and mange their items they have, and they also can descibe their food with image.
 
