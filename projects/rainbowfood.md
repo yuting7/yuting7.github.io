@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/rainbows.jpg
+image: images/rainbow.jpg
 title: Rainbow Food
 permalink: projects/rainbowfood
 # All dates must be YYYY-MM-DD format!
