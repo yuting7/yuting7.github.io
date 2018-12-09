@@ -23,7 +23,7 @@ There should be 3 people in this team, but only one teammate work with me, and t
 
 Here is the website and App:
 
-<div class="ui medium right floated rounded images">
+<div class="ui large left floated rounded images">
   <img class="ui image" src="../images/landing-page-final.png">
 </div>
 
