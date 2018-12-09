@@ -23,6 +23,10 @@ There should be 3 people in this team, but only one teammate work with me, and t
 
 Here is the website and App:
 
+<div class="ui medium right floated rounded images">
+  <img class="ui image" src="../images/landing-page-final.png">
+</div>
+
 [Rainbow Food](https://rainbow-food.github.io/) website.  
 
 [Rainbow Food](http://rainbowfood.meteorapp.com/#/) App.
