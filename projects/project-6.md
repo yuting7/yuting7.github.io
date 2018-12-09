@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+published: false
 image: images/food.jpg
 title: Sugar coated haws on a stick
 permalink: projects/Sugar_coated_haws_on_a_stick
